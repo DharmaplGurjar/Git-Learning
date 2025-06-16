@@ -19,3 +19,8 @@ console.log(upi);
 console.log("Latest Update ");
 
 console.log("Hello Jaipur");
+
+
+// I am fixing some Bug 
+
+console.log("Bug Fixed");
