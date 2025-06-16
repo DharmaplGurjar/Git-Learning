@@ -10,3 +10,8 @@ console.log(login);
 const Payment = "Integrated the payment gateway";
 
 console.log(Payment)
+
+
+const upi = "Integratec the UPI";
+
+console.log(upi);
